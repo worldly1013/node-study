@@ -1,0 +1,4 @@
+{
+	'root':'server.js',
+	'port':'3030'
+}
